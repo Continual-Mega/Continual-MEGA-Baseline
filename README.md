@@ -1,16 +1,15 @@
-## Hi there 👋
+# Continual-Mega: A Large-scale Benchmark for Generalizable Continual Anomaly Detection
 
-<!--
-**Continual-Mega/Continual-Mega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains the evaluation code for the Continual-Mega benchmark, submitted to NeurIPS 2025. \
+We provide the checkpoint files of the proposed model along with the evaluation code for the Continual-Mega benchmark. \
+The training code will be made publicly available at a later date.
 
-Here are some ideas to get you started:
+## Datasets
+### Download
+The datasets are available through Hugging Face. \
+https://huggingface.co/datasets/Continual-Mega/Continual-Mega-Neurips2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Structure
+
+
+## Evaluation
