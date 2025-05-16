@@ -26,7 +26,7 @@ data/
 ## CLIP Pretrained Weights
 Download Link: https://openaipublic.azureedge.net/clip/models/3035c92b350959924f9f00213499208652fc7ea050643e8b385c2dac08641f02/ViT-L-14-336px.pt
 
-Please download the CLIP pretrained weights file from the link above and place it in the ` CLIP/ckpt` directory.
+Please download the CLIP pretrained weights file from the link above and place it in the `CLIP/ckpt` directory.
 
 ## Evaluation
 ### checkpoint files
