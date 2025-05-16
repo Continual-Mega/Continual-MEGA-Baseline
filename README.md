@@ -10,6 +10,28 @@ The datasets are available through Hugging Face. \
 https://huggingface.co/datasets/Continual-Mega/Continual-Mega-Neurips2025
 
 ### Structure
+The datasets directory should be structured as follows:
+``` 
+data/
+├── continual_ad/              # Our proposed ContinualAD dataset
+├── mvtec_anomaly_detection/   # MVTec-AD dataset
+├── VisA_20220922/             # VisA dataset
+├── VIADUCT/                   # VIADUCT dataset 
+├── Real-IAD-512/              # RealIAD dataset (512 size)
+├── MPDD/                      # MPDD dataset
+└── BTAD/                      # BTAD
 
+``` 
 
 ## Evaluation
+### checkpoint files
+We provide checkpoint files for the setting with 30 classes per task in Scenario 2.
+
+### Continual Settings
+``` 
+sh eval_continual.sh
+``` 
+### Zero-Shot Generalization
+``` 
+sh eval_zero.sh
+``` 
