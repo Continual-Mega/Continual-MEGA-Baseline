@@ -7,7 +7,7 @@ The training code will be made publicly available at a later date.
 ## Datasets
 ### Download
 The datasets are available through Hugging Face. \
-https://huggingface.co/datasets/Continual-Mega/Continual-Mega-Neurips2025
+https://huggingface.co/datasets/Continual-Mega/Continual-MEGA-Benchmark
 
 ### Structure
 The datasets directory should be structured as follows:
