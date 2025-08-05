@@ -1,6 +1,6 @@
 # Continual-Mega: A Large-scale Benchmark for Generalizable Continual Anomaly Detection
 
-This repository contains the evaluation code for the Continual-Mega benchmark, submitted to NeurIPS 2025. \
+This repository contains the evaluation code for the Continual-Mega benchmark, submitted to AAAI 2026. \
 We provide the checkpoint files of the proposed model along with the evaluation code for the Continual-Mega benchmark. \
 The training code will be made publicly available at a later date.
 
